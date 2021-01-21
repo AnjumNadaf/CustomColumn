@@ -1,0 +1,3 @@
+<core:FragmentDefinition xmlns:core="sap.ui.core" xmlns="sap.m">
+<Button text="{EmployeeID} {FirstName} {LastName}" press="onClickAction1"/>
+</core:FragmentDefinition>
